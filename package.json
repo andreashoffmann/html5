@@ -1,0 +1,22 @@
+{
+  "name": "html5",
+  "version": "0.1.0",
+  "description": "HTML5 examples for training purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://andreashoffmann@github.com/andreashoffmann/html5.git"
+  },
+  "keywords": [
+    "html5"
+  ],
+  "author": "Andreas Hoffmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreashoffmann/html5/issues"
+  },
+  "homepage": "https://github.com/andreashoffmann/html5#readme"
+}
